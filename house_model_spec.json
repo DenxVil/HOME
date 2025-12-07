@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "name": "Integrated Luxury 2BHK House (30x60 Plot)",
+    "location": "New Delhi, North-Facing",
+    "total_area_sqft": 1800,
+    "built_up_area_sqft": 1330,
+    "floor_height_ft": 10
+  },
+  "rooms": [
+    {
+      "name": "Parking/Terrace",
+      "dimensions": "10\u00d710 ft",
+      "area": 100,
+      "description": "Outdoor parking & landscaping"
+    },
+    {
+      "name": "Kitchen",
+      "dimensions": "10\u00d710 ft",
+      "area": 100,
+      "description": "Compact L-shaped kitchen with hob, sink, appliances"
+    },
+    {
+      "name": "Store Room",
+      "dimensions": "10\u00d713 ft",
+      "area": 130,
+      "description": "Bulk storage, pantry, appliances"
+    },
+    {
+      "name": "Puja Room",
+      "dimensions": "10\u00d75 ft",
+      "area": 50,
+      "description": "Prayer room with East-facing altar"
+    },
+    {
+      "name": "Master Bed 1",
+      "dimensions": "11\u00d714 ft",
+      "area": 154,
+      "description": "King-size bed, wardrobe, sitting area"
+    },
+    {
+      "name": "Bath 1",
+      "dimensions": "10\u00d74 ft",
+      "area": 40,
+      "description": "Attached master bath (Vastu remedied)"
+    },
+    {
+      "name": "Living Hall",
+      "dimensions": "17\u00d718 ft",
+      "area": 306,
+      "description": "Family living room with TV unit, seating"
+    },
+    {
+      "name": "Bath 3",
+      "dimensions": "10\u00d75 ft",
+      "area": 50,
+      "description": "Common guest bathroom"
+    },
+    {
+      "name": "Staircase",
+      "dimensions": "10\u00d710 ft",
+      "area": 100,
+      "description": "Straight run with glass railings"
+    },
+    {
+      "name": "Guest Room",
+      "dimensions": "10\u00d710 ft",
+      "area": 100,
+      "description": "Flexible space (guest/office/yoga)"
+    },
+    {
+      "name": "Bedroom 2",
+      "dimensions": "12\u00d713.5 ft",
+      "area": 162,
+      "description": "Secondary bedroom with queen-size bed"
+    },
+    {
+      "name": "Bath 2",
+      "dimensions": "10\u00d74 ft",
+      "area": 40,
+      "description": "Attached bedroom bath (Vastu remedied)"
+    },
+    {
+      "name": "Corridor",
+      "dimensions": "6\u00d760 ft",
+      "area": 360,
+      "description": "Central circulation spine"
+    },
+    {
+      "name": "Utility Duct",
+      "dimensions": "4\u00d74 ft",
+      "area": 16,
+      "description": "Vertical MEP infrastructure"
+    },
+    {
+      "name": "Rear Setback",
+      "dimensions": "30\u00d73 ft",
+      "area": 90,
+      "description": "Ventilation & natural light zone"
+    }
+  ]
+}

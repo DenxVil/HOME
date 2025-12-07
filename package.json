@@ -1,0 +1,33 @@
+{
+  "name": "house-3d-viewer",
+  "version": "1.0.0",
+  "description": "Interactive 3D visualization of integrated luxury 2BHK home (30x60 plot) with Three.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'No build needed - static site'",
+    "deploy": "git add . && git commit -m 'Update 3D viewer' && git push"
+  },
+  "keywords": [
+    "3d-visualization",
+    "house-design",
+    "three-js",
+    "webgl",
+    "architecture",
+    "vastu-compliant",
+    "real-estate",
+    "delhi"
+  ],
+  "author": "Dhruv Marmath",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DenxVil/house-3d"
+  },
+  "devDependencies": {
+    "three": "^r128"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
