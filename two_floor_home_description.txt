@@ -1,0 +1,763 @@
+
+═══════════════════════════════════════════════════════════════════════════════
+                COMPLETE TWO-FLOOR LUXURY HOME SPECIFICATION
+              Integrated 2BHK + Ground Floor (30' × 60' Plot)
+═══════════════════════════════════════════════════════════════════════════════
+
+PROJECT IDENTITY
+─────────────────────────────────────────────────────────────────────────────
+Name:              Integrated Luxury 2BHK Residence (Ground + First Floor)
+Location:          New Delhi, India (North-Facing Plot)
+Plot Size:         30 ft (Width) × 60 ft (Depth) = 1,800 sq. ft.
+Total Built-up:    2,660 sq. ft. (1,330 per floor × 2 floors)
+Floors:            2 (Ground Floor + First Floor)
+Facing:            North (Auspicious)
+Bedrooms:          2 Master + 1 Guest (First Floor only)
+Bathrooms:         3 (First Floor)
+Architectural:     Modern Contemporary with Vastu Compliance
+Status:            Designed for construction
+Estimated Cost:    ₹6.5-8.0 Cr (both floors, luxury finish, Delhi rates)
+
+═══════════════════════════════════════════════════════════════════════════════
+PLOT LAYOUT & ZONING
+═══════════════════════════════════════════════════════════════════════════════
+
+PLOT DIMENSIONS:
+• North (Front/Road): 30 ft wide
+• South (Rear): 30 ft wide
+• West (Left): 60 ft deep
+• East (Right): 60 ft deep
+• Total Area: 1,800 sq. ft.
+
+SPATIAL ORGANIZATION (North → South):
+┌─────────────────────────────────────────────────────────────────────┐
+│                      NORTH (ROAD FACING)                            │
+│                          30 FEET WIDE                                │
+│                                                                      │
+│  [PARKING (15')] │ [ENTRANCE GATE (15')]                            │
+│                                                                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│                   MAIN HALL (Ground Floor)                          │
+│                   30' × 60' = 1,800 sq. ft.                        │
+│                   (Spans entire first 60 feet)                      │
+│                                                                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                      SOUTH (REAR BOUNDARY)                           │
+│                          30 FEET WIDE                                │
+└─────────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════════════
+GROUND FLOOR LAYOUT (Y = 0-10 ft)
+═══════════════════════════════════════════════════════════════════════════════
+
+ENTIRE GROUND FLOOR: SINGLE LARGE HALL
+─────────────────────────────────────
+
+1. MAIN HALL / GRAND HALL (30×60 ft = 1,800 sq. ft.)
+   ─────────────────────────────────────────────────
+   Location:        Ground Floor (entire footprint)
+   Dimensions:      30 ft (width) × 60 ft (depth)
+   Height:          10 ft (ceiling to slab)
+   Purpose:         Flexible multi-use space
+
+   Use Cases:
+   • Large gathering hall for events (capacity: 150-200 people standing)
+   • Commercial/office space (open-plan layout)
+   • Retail showroom (high visibility from road)
+   • Parking + utility garage (north 20 ft)
+   • Warehouse/storage (adaptable layout)
+
+   Flooring:        Polished marble or marble-finish tiles
+                   • 3×3 ft tiles for easy replacement
+                   • Slight slope for drainage
+
+   Walls:           9" brick + plaster + premium paint
+                   • Light cream/off-white (maximizes visibility)
+                   • 2 ft wainscoting (robust for high traffic)
+
+   Ceiling:         POP (plaster of paris) with integrated electrical conduit
+                   • 10 ft clear height for flexibility
+                   • Track lighting fixtures throughout
+
+   Structural:      RCC (reinforced concrete) columns at 10 ft spacing
+                   • 12"×12" columns (visible, part of design)
+                   • Black powder-coated finish (industrial aesthetic)
+
+   Windows:         Multiple openings (adaptable to use)
+                   • North side: 6 ft wide windows (3 locations)
+                   • East/West: 3 ft openings (ventilation)
+                   • South: Option for large sliding doors
+
+   Doors:           
+                   • Main entrance: North-East (10 ft × 8 ft)
+                   • Emergency exit: South (5 ft × 7 ft)
+                   • Service access: West side
+
+   HVAC:            Large capacity ducted AC system
+                   • Suitable for 5-ton capacity
+                   • Central duct routing through slab
+                   • Zoning possible for separate areas
+
+   Electrical:      Heavy-duty infrastructure
+                   • 3-phase 100A power supply
+                   • Multiple distribution boards
+                   • ~40-50 outlets throughout
+                   • Emergency generator inlet
+
+   Plumbing:        Central water supply + drainage
+                   • 2 ft diameter sump (storm water)
+                   • Central drain line to municipal sewer
+                   • 2-3 water taps for cleaning
+
+   Parking Area (North-West, 15×10 ft = 150 sq. ft.)
+   • Space for 1-2 cars
+   • Separate entrance from road
+   • Level surface, oil-resistant coating
+
+   Entrance Vestibule (North-East, 15×10 ft = 150 sq. ft.)
+   • Grand entry threshold
+   • Weather protection
+   • Security desk/gate area
+
+═══════════════════════════════════════════════════════════════════════════════
+FIRST FLOOR LAYOUT (Y = 10-20 ft)
+═══════════════════════════════════════════════════════════════════════════════
+
+TOTAL FIRST FLOOR: 1,330 sq. ft. (15 individual rooms)
+
+### NORTH ZONE (Front, Public Area)
+───────────────────────────────────
+
+1. TERRACE / OUTDOOR SPACE (10×10 ft = 100 sq. ft.)
+   ─────────────────────────────────────────────────
+   Location:        North-West corner (above parking area)
+
+   Purpose:         Outdoor seating, landscaping, relaxation
+
+   Flooring:        Vitrified outdoor tiles (light grey)
+                   • Anti-slip coating
+                   • 1-2% slope for water drainage
+
+   Amenities:
+   • Hanging planters with climbing vines
+   • Teak wood seating (built-in bench)
+   • Shade structure (40% coverage, allows morning sun)
+   • Warm LED lights (recessed, 2700K CCT)
+   • Glass railing (partial, maintains sightline to road)
+
+   Atmosphere:      WELCOMING, SEMI-PRIVATE, LUXURIOUS
+
+2. FAMILY LIVING HALL (17×18 ft = 306 sq. ft.)
+   ──────────────────────────────────────────
+   Location:        North-East corner (Ishanya - Auspicious)
+   Vastu:           Excellent placement for prosperity & social gatherings
+
+   Dimensions:      17 ft (E-W) × 18 ft (N-S)
+   Height:          10 ft (generous, creates spaciousness)
+
+   Flooring:        Polished white marble (2×2 ft tiles)
+                   • Mirror-polished, high-gloss finish
+                   • Reflects light, maximizes brightness
+                   • Cool in summer, elegant feel
+
+   Walls:           Textured cream/beige paint
+                   • Feature accent wall (South side) - optional 3D relief
+                   • TV niche with backlit effect
+
+   Ceiling:         POP with integrated cove lighting
+                   • Fiber-optic starry night effect (optional luxury feature)
+                   • Recessed LED panels (dimmable, 2700K warm white)
+                   • Central chandelier (decorative, warm white)
+
+   Natural Light:   Large windows
+                   • North window: 6 ft wide (morning light, no heat)
+                   • East window: 4 ft wide (cross-ventilation)
+
+   Furniture Layout:
+                   • 3-seater sofa + accent chairs
+                   • Marble center table
+                   • TV unit on South wall (built-in storage)
+                   • Side tables with lamps
+
+   Lighting:
+                   • Main chandelier (focal point)
+                   • Recessed LED panel (4000K task lighting)
+                   • Cove lights (2700K ambient, perimeter)
+                   • Wall sconces (flanking TV niche)
+
+   HVAC:            2.5 Ton split AC (discreet wall mounting)
+                   • Capacity handles full floor initially
+                   • Can split later to dedicated zones
+
+   Doors:
+                   • Double glass door: North (from terrace/parking)
+                   • Single door: South (to corridor)
+
+   Atmosphere:      LUXURIOUS, SPACIOUS, INVITING
+                   • Perfect for family gatherings, entertaining
+                   • Bright during day, glowing at night
+                   • Star ceiling adds sophistication
+
+### CENTER ZONE (Service & Circulation)
+──────────────────────────────────────
+
+3. CENTRAL CORRIDOR (6×60 ft = 360 sq. ft.)
+   ────────────────────────────────────────
+   Location:        Spine running N-S through center
+
+   Purpose:         Main circulation, light distribution
+
+   Flooring:        Polished cream marble (mirror-finish)
+                   • Reflects light down long corridor
+
+   Walls:           Off-white/soft grey paint
+                   • Minimalist design
+                   • Wall-mounted mirrors (expand visual space)
+                   • Optional gallery wall with artwork
+
+   Ceiling:         POP with LED panel lights
+                   • Bright 3000-3500K recessed panels
+                   • Wall sconces at 10 ft intervals
+
+   Features:
+                   • Access to 7 rooms (kitchen, store, puja, stairs, guest, hall, bedrooms)
+                   • Multiple entry/exit points (efficient traffic)
+                   • Borrowed light from side rooms
+
+   Atmosphere:      BRIGHT, WELCOMING, CONNECTING
+
+4. KITCHEN (10×10 ft = 100 sq. ft.)
+   ────────────────────────────────
+   Location:        North-West (Vayavya corner - prosperity)
+   Vastu:           Chef faces EAST (toward store room) ✓
+
+   Layout:          L-shaped, compact but efficient
+
+   Flooring:        Non-slip ceramic tiles (white/light grey)
+                   • 1×1 ft tiles for easy replacement
+                   • Antibacterial glaze
+
+   Walls:           Ceramic tile backsplash + paint
+                   • Full-height behind 4-burner hob
+                   • Stainless steel trim
+
+   Equipment:
+                   • 4-burner gas hob (on East wall for Vastu)
+                   • 600mm chimney (ducted exterior)
+                   • Double stainless steel sink
+                   • Compact refrigerator (North wall)
+                   • Microwave + OTG (countertop)
+
+   Storage:         Modular cabinets
+                   • Upper: light finish (opens up space)
+                   • Lower: dark finish (storage concealment)
+                   • Corner carousel (efficient space use)
+
+   Lighting:
+                   • LED under-cabinet (task lighting)
+                   • Ceiling LED panel (4000K bright)
+
+   Natural Light:   North window (3 ft wide)
+
+   Ventilation:     Chimney exhaust + window ventilation
+
+   Utility:         Water inlet from North, waste to utility duct
+
+   Atmosphere:      FUNCTIONAL, CLEAN, BRIGHT
+
+5. STORE ROOM / PANTRY (10×13 ft = 130 sq. ft.)
+   ────────────────────────────────────────────
+   Location:        West wall (below kitchen, above puja)
+
+   Purpose:         Dry goods, bulk storage, kitchen appliances
+
+   Flooring:        Concrete with epoxy finish (durable)
+
+   Walls:           Plaster + light paint (visibility)
+
+   Storage:         Industrial metal shelves (3-4 tiers)
+                   • Accommodates large containers
+                   • Easy access to stored items
+
+   Lighting:        LED tube lights (bright 4000K)
+
+   Ventilation:     High-level window (East wall, 3 ft)
+
+   Access:          Door from kitchen or corridor
+
+   Atmosphere:      UTILITARIAN, ORGANIZED, SECURE
+
+6. PUJA ROOM / PRAYER ROOM (10×5 ft = 50 sq. ft.)
+   ──────────────────────────────────────────────
+   Location:        West wall (below store, above master bed)
+   Vastu:           Idols face EAST (auspicious) ✓
+
+   Flooring:        Polished marble tiles (white/cream)
+                   • Clean, sacred appearance
+
+   Walls:           Pale yellow paint (spiritual calm)
+                   • Promotes peace and prayer
+
+   Altar:           Wooden sanctum with East-facing idol placement
+                   • 3' high carved design
+
+   Lighting:        Soft LED only (warm 2700K)
+                   • NO harsh overhead lights
+                   • Optional oil lamp for rituals
+
+   Accessories:
+                   • Brass bells (ritual ringing)
+                   • Oil lamps (for evening prayers)
+                   • Incense holder + agarbatti
+                   • Offering plate (brass)
+
+   Entry:           Preferably from store room (private, separate)
+
+   Atmosphere:      SACRED, PEACEFUL, SPIRITUAL
+                   • Separate from main flow
+                   • Private family space
+
+7. UTILITY DUCT / PLUMBING SHAFT (4×4 ft = 16 sq. ft.)
+   ────────────────────────────────────────────────────
+   Location:        West wall (between puja & master bed)
+
+   Purpose:         Vertical conduit for MEP infrastructure
+
+   Contents:
+                   • Main sewage line (110mm PVC)
+                   • Vent stack (110mm to roof)
+                   • Water distribution branches
+                   • Optional electrical conduit
+
+   Access:          Removable panel (from corridor side)
+
+   Value:
+                   • Hides pipes from wall surface
+                   • Enables future maintenance without dismantling
+                   • Provides space for expansion
+                   • Critical structural element
+
+### WEST ZONE (Private - Master Bedroom Suite)
+──────────────────────────────────────────────
+
+8. MASTER BEDROOM 1 (11×14 ft = 154 sq. ft.)
+   ──────────────────────────────────────────
+   Location:        South-West corner (Nairitya - stability, excellent)
+   Vastu:           Perfect for master's room ✓
+
+   Dimensions:      11 ft (W) × 14 ft (D)
+   Height:          10 ft
+
+   Flooring:        Engineered wood (warm medium brown, matte)
+                   • Non-reflective, comfortable underfoot
+                   • Warm ambiance
+
+   Walls:           Warm beige/cream paint
+                   • Accent wall with 3D floral relief (luxury detail)
+                   • Calming, sophisticated
+
+   Ceiling:         Simple POP finish
+                   • Pendant chandelier (warm white, 2700K)
+                   • Wall sconces flanking bed (reading)
+                   • Recessed LED panel (ambiance)
+
+   Natural Light:   South window (3.5 ft wide)
+                   • Opens to rear setback
+                   • Good morning light
+                   • Cross-ventilation
+
+   Furniture:
+                   • King-size bed (6' × 6.5')
+                   • Upholstered headboard
+                   • 2 nightstands with lamps
+                   • Seating nook (optional)
+
+   Wardrobe:        Built-in 3-door sliding wardrobe (East wall)
+                   • Mirror infill (visual space expansion)
+                   • Ample storage for couple's clothing
+
+   AC:              1.5 Ton split unit (efficient)
+
+   Doors:           Single door from corridor (North wall)
+
+   Attached Bath:   Bathroom 1 (10×4 ft, direct access E wall)
+
+   Atmosphere:      SERENE, SOPHISTICATED, PERSONAL RETREAT
+                   • Master's sanctuary
+                   • Privacy, elegance, comfort
+
+9. MASTER BATHROOM 1 (10×4 ft = 40 sq. ft.)
+   ──────────────────────────────────────────
+   Location:        South-West rear (attached to master bed)
+   Vastu:           SW corner toilet (DEFECT) → Remedies applied ✓
+
+   VASTU REMEDIES APPLIED:
+   ✓ Toilet on NORTH wall (not SW corner)
+   ✓ Door ALWAYS CLOSED
+   ✓ Sea salt bowl in SE corner (change weekly)
+   ✓ Warm colors (cream/beige - never cold blues)
+   ✓ Bronze/copper fixtures (remedy metals)
+
+   Flooring:        Light grey ceramic tiles (non-slip)
+
+   Walls:           Ceramic tile (up to 7 ft) cream + grey
+                   • Matte finish (reduces glare)
+
+   Fixtures:
+                   • Toilet: Ceramic commode (NORTH wall)
+                   • Washbasin: Marble counter, single basin (E side)
+                   • Bathtub: Freestanding oval (luxury feature, S side)
+                   • Shower: Rain shower head + thermostatic mixer
+
+   Lighting:
+                   • Ceiling LED panel (warm 2700K)
+                   • Mirror lights (flanking sides)
+
+   Ventilation:
+                   • South window (2 ft) to rear setback
+                   • Ceiling exhaust fan (200 CFM)
+
+   Accessories:
+                   • Recessed niches (LED strip for toiletries)
+                   • Sea salt bowl (Vastu remedy)
+                   • Bronze towel racks
+
+   Atmosphere:      SPA-LIKE LUXURY WITH VASTU PROTECTION
+
+### EAST ZONE (Service + Private - Circulation & Second Bedroom)
+─────────────────────────────────────────────────────────────
+
+10. BATHROOM 3 / COMMON GUEST BATH (10×5 ft = 50 sq. ft.)
+    ───────────────────────────────────────────────────
+    Location:        East wall (behind living hall)
+    Purpose:         Guest/common bathroom
+
+    Flooring:        Light grey ceramic (non-slip)
+    Walls:           White/cream tiles + paint (clean, bright)
+
+    Fixtures:
+                    • Toilet: Ceramic commode
+                    • Urinal: Optional (multi-occupancy)
+                    • Washbasin: Wall-mounted white ceramic
+                    • Mirror: Above basin
+
+    Lighting:
+                    • Ceiling LED panel
+                    • Mirror lights (flanking)
+
+    Ventilation:     Exhaust fan (200 CFM)
+
+    Access:          From corridor or hall
+
+    Atmosphere:      CLEAN, MINIMAL, UTILITARIAN
+
+11. STAIRCASE (10×10 ft = 100 sq. ft.)
+    ────────────────────────────────
+    Location:        East wall (central position)
+    Vastu:           East location (concern) → Remedies applied ✓
+
+    VASTU REMEDIES:
+    ✓ Glass railings (visual lightness - NOT solid walls)
+    ✓ Bright LED lighting (minimizes heaviness)
+    ✓ Open risers (allows light through)
+
+    Type:            Straight run with intermediate landing
+
+    Specifications:
+                    • Steps: 15-16 (10 ft height for 2 floors)
+                    • Riser height: 7.5 inches (comfortable)
+                    • Tread depth: 10 inches (safe)
+                    • Width: 3.5 ft (2-person passage)
+
+    Material:
+                    • Treads: Polished marble/engineered stone
+                    • Frame: RCC structure
+                    • Railing: Stainless steel + tempered glass
+
+    Lighting:
+                    • Recessed LED both sides (bright 3000-4000K)
+                    • LED step markers (ambient night lighting)
+
+    Purpose:         Connects ground to first floor
+
+    Atmosphere:      OPEN, BRIGHT, INVITING
+
+12. GUEST ROOM (10×10 ft = 100 sq. ft.)
+    ──────────────────────────────────
+    Location:        East wall (below staircase)
+
+    Flooring:        Engineered wood (medium brown, matte)
+    Walls:           Soft green or neutral grey (restful)
+
+    Bed:             Queen-size (5' × 6.5')
+    Wardrobe:        Single-door closet or open shelving
+    Desk:            Optional small workstation
+
+    AC:              0.75 Ton split unit (compact)
+
+    Lighting:
+                    • Ceiling fixture (warm white)
+                    • Wall sconces (reading)
+
+    Doors:           From corridor (West wall)
+
+    Flexibility:     Can be office, yoga room, or home theater
+
+    Atmosphere:      WELCOMING, COMFORTABLE, FLEXIBLE
+
+### SOUTH ZONE (Private - Second Bedroom Suite)
+───────────────────────────────────────────────
+
+13. SECONDARY BEDROOM 2 (12×13.5 ft = 162 sq. ft.)
+    ────────────────────────────────────────────
+    Location:        South-East corner (SE = Fire zone, children/secondary)
+    Vastu:           Suitable for children or secondary occupant ✓
+
+    Flooring:        Warm-tone laminate (medium brown)
+    Walls:           Soft beige or light warm grey
+                    • Optional textured feature wall
+
+    Bed:             Queen or King-size (flexible)
+    Wardrobe:        Built-in 3-door sliding (East wall) with mirror
+    Study Corner:    Optional small desk
+
+    AC:              1.5 Ton split unit
+
+    Natural Light:   South window (4 ft wide)
+                    • Bright, well-ventilated
+
+    Lighting:
+                    • Recessed LED panel
+                    • Pendant lights (ambiance)
+                    • Bedside reading lamps
+
+    Entry:           From corridor (West wall)
+
+    Attached Bath:   Bathroom 2 (10×4 ft, SE corner)
+
+    Atmosphere:      BRIGHT, FUNCTIONAL, FAMILY-FRIENDLY
+
+14. SECONDARY BATHROOM 2 (10×4 ft = 40 sq. ft.)
+    ────────────────────────────────────────
+    Location:        South-East rear (attached to bed 2)
+    Vastu:           SE corner (water in fire - concern) → Remedies ✓
+
+    VASTU REMEDIES:
+    ✓ Warm earth tones (orange, cream, beige)
+    ✓ Red/orange accent tile band (Fire element)
+    ✓ Vastu pyramid on South wall
+    ✓ NO cool blues/greens (avoid water imbalance)
+
+    Flooring:        Ceramic tiles (warm beige + grey)
+    Walls:           Tile (cream + warm accents) + red band
+
+    Fixtures:
+                    • Toilet: Ceramic commode (East wall)
+                    • Washbasin: Single basin (North side)
+                    • Shower: Enclosed cubicle
+
+    Lighting:
+                    • Ceiling LED (warm 2700K)
+                    • Mirror lights
+
+    Ventilation:
+                    • South window (2 ft) to rear setback
+                    • Exhaust fan (200 CFM)
+
+    Accessories:
+                    • Vastu pyramid (South wall)
+                    • Warm-toned fixtures (copper/bronze)
+
+    Atmosphere:      WARM, ENERGETIC, BALANCED
+
+15. REAR SETBACK / OPEN-TO-SKY (30×3 ft = 90 sq. ft.)
+    ─────────────────────────────────────────────────
+    Location:        South side (rear boundary)
+    ⭐ CRITICAL FEATURE
+
+    Purpose:
+                    ✓ Ventilation for all rear rooms
+                    ✓ Natural light through South windows
+                    ✓ Prevents dark room syndrome
+                    ✓ Improves indoor air quality
+                    ✓ Water drainage management
+
+    Flooring:        Outdoor paving stone (grey/slate)
+                    • 1% slope toward perimeter drain
+
+    Boundary:        3 ft high brick/concrete wall
+
+    Windows:         South-facing from master, bed 2, both baths
+
+    Landscaping:     Minimal (gravel/permeable paving)
+                    • NO solid concrete
+
+    ⚠️ NON-NEGOTIABLE:
+    • Building code requirement
+    • Ensures livability of rear rooms
+    • Improves resale value
+
+═══════════════════════════════════════════════════════════════════════════════
+CONSTRUCTION SPECIFICATIONS (SUMMARY)
+═══════════════════════════════════════════════════════════════════════════════
+
+STRUCTURE:
+• Foundation: Isolated footings at pillar locations
+• Columns: RCC (M25), 12×12 inches, spaced ~10 ft
+• Beams: RCC (M25), 500×300 mm (primary), 400×300 mm (secondary)
+• Slab: Solid RCC, 5" thick, M25 grade
+• Height per floor: 10 ft (clear)
+• Total height: 20 ft (with parapet)
+
+FLOORING (per room type):
+• Ground Floor Hall: Polished marble or marble-finish tiles
+• First Floor Hall & Corridor: Polished marble (white/cream)
+• Bedrooms: Engineered wood or laminate (warm tones)
+• Bathrooms & Kitchen: Non-slip ceramic tiles
+• Terrace: Vitrified outdoor tiles
+
+WALLS:
+• External: 9" brick with travertine stone cladding
+• Internal: 4.5" brick with plaster + paint/tiles
+• Detailing: Stainless steel/bronze accents
+
+DOORS & WINDOWS:
+• Material: Teak-ply with melamine laminate
+• Glazing: 6mm clear (internal), 10mm tinted (external)
+• Locks: Mortise or cylindrical (Godrej/Dorset)
+
+LIGHTING:
+• LED tubes (4000K task), LED panels (3000K ambient)
+• Warm chandeliers (2700K focal)
+• Cove lights in hall (2700K)
+• Optional fiber-optic starry ceiling
+
+HVAC:
+• Ground Floor: Large central AC system (adaptable)
+• First Floor Hall: 2.5 Ton AC
+• Master Bed: 1.5 Ton AC
+• Guest: 0.75 Ton AC
+• Secondary Bed: 1.5 Ton AC
+• Bathroom exhaust: 200 CFM each
+• Kitchen chimney: 600mm, ducted
+
+MEP:
+• Water: Central 110mm main → distribution through duct
+• Sewage: Gravity flow → municipal sewer
+• Electrical: 3-phase 100A supply (or higher for flexibility)
+• Load: ~25-30 kW peak (both floors)
+
+═══════════════════════════════════════════════════════════════════════════════
+VASTU COMPLIANCE SUMMARY (FIRST FLOOR)
+═══════════════════════════════════════════════════════════════════════════════
+
+✓ AUSPICIOUS PLACEMENTS:
+• North-East: Living Hall (Ishanya – Excellent)
+• South-West: Master Bedroom (Stability – Excellent)
+• North-West: Kitchen (Vayavya – Good for prosperity)
+• East-Center: Staircase (with remedies)
+
+⚠️ DEFECTS WITH REMEDIES:
+• SW Toilet: Door closed, sea salt, warm colors, bronze fixtures ✓
+• SE Toilet: Warm earth tones, red accents, Vastu pyramid ✓
+• E Staircase: Glass railings, bright lighting, open risers ✓
+• W Puja: Idols face East, pale yellow, soft lighting ✓
+
+═══════════════════════════════════════════════════════════════════════════════
+COST BREAKDOWN & TIMELINE
+═══════════════════════════════════════════════════════════════════════════════
+
+Ground Floor (Large Hall):    ₹2.5-3.0 Cr
+First Floor (15 rooms):       ₹4.0-5.0 Cr
+Total Investment:             ₹6.5-8.0 Cr (luxury finish)
+
+Cost per Sq. Ft. (First Floor): ₹3,000-3,750
+Total Built-up: 2,660 sq. ft. (ground + first floor)
+
+Construction Timeline:
+• Ground floor: 2-3 months
+• First floor: 3-4 months
+• Finishes: 1-2 months
+• Total: 6-9 months (aggressive), 10-12 months (comfortable)
+
+═══════════════════════════════════════════════════════════════════════════════
+UNIQUE FEATURES
+═══════════════════════════════════════════════════════════════════════════════
+
+1. ✓ Massive Ground Floor Hall (1,800 sq. ft.)
+   – Commercial/event use potential
+   – Rental income opportunity
+   – Flexible adaptation
+
+2. ✓ Integrated Rear Setback (3 ft)
+   – Ventilation for all rear rooms
+   – Natural light distribution
+
+3. ✓ Utility Duct (4×4 ft)
+   – Centralized MEP
+   – Hidden infrastructure
+
+4. ✓ Vastu Compliance (100%)
+   – All auspicious placements
+   – All defects remedied
+
+5. ✓ Luxury Materials
+   – Polished marble, engineered wood
+   – Premium finishes throughout
+
+6. ✓ Natural Light & Ventilation
+   – Cross-ventilation everywhere
+   – No dark corners
+
+7. ✓ Two-Floor Flexibility
+   – Ground floor (commercial/residential)
+   – First floor (residential luxury)
+
+8. ✓ High Ceilings
+   – 10 ft per floor
+   – Spacious, airy feel
+
+9. ✓ Modern Amenities
+   – AC, LED smart lighting
+   – Rain shower, fiber-optic ceiling
+
+10. ✓ Investment Value
+    – Dual use potential
+    – Premium location
+    – Future resale value
+
+═══════════════════════════════════════════════════════════════════════════════
+FLOOR AREA SUMMARY
+═══════════════════════════════════════════════════════════════════════════════
+
+GROUND FLOOR:
+• Main Hall:                    1,800 sq. ft.
+• Total:                        1,800 sq. ft.
+
+FIRST FLOOR:
+• Living Hall:                    306 sq. ft.
+• Kitchen:                        100 sq. ft.
+• Store Room:                     130 sq. ft.
+• Puja Room:                       50 sq. ft.
+• Master Bedroom 1:              154 sq. ft.
+• Bathroom 1:                      40 sq. ft.
+• Bathroom 3:                      50 sq. ft.
+• Staircase:                      100 sq. ft.
+• Guest Room:                     100 sq. ft.
+• Bedroom 2:                      162 sq. ft.
+• Bathroom 2:                      40 sq. ft.
+• Terrace:                        100 sq. ft.
+• Utility Duct:                    16 sq. ft.
+• Rear Setback:                    90 sq. ft.
+• Corridor:                        92 sq. ft.
+• Total:                        1,330 sq. ft.
+
+COMBINED TOTAL: 3,130 sq. ft. (including setback & duct)
+LIVABLE/USABLE: 2,660 sq. ft. (1,800 GF + 1,330 FF, excluding setback)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✨ PROJECT COMPLETE: INTEGRATED LUXURY 2-FLOOR RESIDENCE ✨
+
+═══════════════════════════════════════════════════════════════════════════════
