@@ -1,218 +1,362 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Luxury 30×60 House - 3D Viewer</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two-Floor 3D Luxury Residence Viewer</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      min-height: 100vh;
-      overflow: hidden;
-    }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #e0e0e0;
+            height: 100vh;
+            overflow: hidden;
+        }
 
-    #canvas {
-      display: block;
-      width: 100%;
-      height: 100%;
-    }
+        #canvas-container {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+        }
 
-    .info-panel {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      background: rgba(255, 255, 255, 0.95);
-      padding: 20px;
-      border-radius: 12px;
-      max-width: 350px;
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-      z-index: 100;
-      font-size: 14px;
-      line-height: 1.6;
-    }
+        .ui-panel {
+            position: absolute;
+            background: rgba(30, 30, 50, 0.95);
+            border: 2px solid #00d4ff;
+            border-radius: 12px;
+            padding: 20px;
+            color: #e0e0e0;
+            font-size: 13px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(0, 212, 255, 0.2);
+        }
 
-    .info-panel h1 {
-      color: #333;
-      margin-bottom: 10px;
-      font-size: 18px;
-      border-bottom: 2px solid #667eea;
-      padding-bottom: 10px;
-    }
+        /* TOP-LEFT: Project Info */
+        #info-panel {
+            top: 20px;
+            left: 20px;
+            width: 300px;
+            max-height: 280px;
+            overflow-y: auto;
+        }
 
-    .info-panel p {
-      color: #555;
-      margin: 5px 0;
-    }
+        #info-panel h2 {
+            color: #00d4ff;
+            font-size: 16px;
+            margin-bottom: 12px;
+            border-bottom: 1px solid #00d4ff;
+            padding-bottom: 8px;
+        }
 
-    .spec {
-      background: #f0f0f0;
-      padding: 10px;
-      border-radius: 6px;
-      margin-top: 10px;
-      font-size: 13px;
-    }
+        #info-panel p {
+            margin: 6px 0;
+            line-height: 1.4;
+        }
 
-    .controls {
-      position: absolute;
-      bottom: 20px;
-      left: 20px;
-      background: rgba(255, 255, 255, 0.95);
-      padding: 15px 20px;
-      border-radius: 12px;
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-      z-index: 100;
-      font-size: 13px;
-    }
+        .stat {
+            display: flex;
+            justify-content: space-between;
+            padding: 4px 0;
+            border-bottom: 1px solid rgba(0, 212, 255, 0.2);
+        }
 
-    .controls h3 {
-      color: #333;
-      margin-bottom: 8px;
-      font-size: 14px;
-    }
+        .stat-label { color: #00d4ff; }
+        .stat-value { color: #4fd7e7; font-weight: bold; }
 
-    .control-item {
-      margin: 6px 0;
-      color: #555;
-    }
+        /* TOP-RIGHT: Camera Controls */
+        #camera-panel {
+            top: 20px;
+            right: 20px;
+            width: 280px;
+        }
 
-    .room-list {
-      position: absolute;
-      bottom: 20px;
-      right: 20px;
-      background: rgba(255, 255, 255, 0.95);
-      padding: 15px;
-      border-radius: 12px;
-      max-height: 400px;
-      overflow-y: auto;
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-      z-index: 100;
-      font-size: 12px;
-    }
+        #camera-panel h3 {
+            color: #00d4ff;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
 
-    .room-list h3 {
-      color: #333;
-      margin-bottom: 10px;
-      font-size: 14px;
-    }
+        #fps, #camera-pos {
+            color: #4fd7e7;
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+        }
 
-    .room-item {
-      padding: 6px;
-      margin: 4px 0;
-      background: #f5f5f5;
-      border-left: 3px solid #667eea;
-      cursor: pointer;
-      border-radius: 3px;
-      transition: all 0.2s;
-    }
+        .control-item {
+            margin: 8px 0;
+            padding: 8px;
+            background: rgba(0, 212, 255, 0.1);
+            border-left: 2px solid #00d4ff;
+            border-radius: 4px;
+        }
 
-    .room-item:hover {
-      background: #e8e8ff;
-      transform: translateX(3px);
-    }
+        /* BOTTOM-LEFT: Room List */
+        #room-panel {
+            bottom: 20px;
+            left: 20px;
+            width: 320px;
+            max-height: 380px;
+        }
 
-    .room-name {
-      font-weight: bold;
-      color: #333;
-    }
+        #room-panel h3 {
+            color: #00d4ff;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
 
-    .room-size {
-      color: #999;
-      font-size: 11px;
-    }
+        #room-list-content {
+            max-height: 340px;
+            overflow-y: auto;
+        }
 
-    .stats {
-      position: absolute;
-      top: 20px;
-      right: 20px;
-      background: rgba(0, 0, 0, 0.7);
-      color: #fff;
-      padding: 15px;
-      border-radius: 8px;
-      font-size: 12px;
-      font-family: 'Courier New', monospace;
-      z-index: 100;
-    }
+        .room-item {
+            background: rgba(0, 212, 255, 0.08);
+            border-left: 3px solid #4fd7e7;
+            padding: 8px 10px;
+            margin: 6px 0;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
 
-    .stats-label {
-      color: #aaa;
-      font-size: 10px;
-      text-transform: uppercase;
-    }
+        .room-item:hover {
+            background: rgba(0, 212, 255, 0.15);
+            border-left-color: #00ffff;
+            transform: translateX(4px);
+        }
 
-    .stats-value {
-      color: #0f0;
-      font-weight: bold;
-    }
+        .room-name {
+            color: #00d4ff;
+            font-weight: bold;
+            font-size: 12px;
+        }
 
-    @media (max-width: 768px) {
-      .info-panel { display: none; }
-      .controls { display: none; }
-      .room-list { display: none; }
-      .stats { font-size: 11px; }
-    }
-  </style>
+        .room-size {
+            color: #b0d7ff;
+            font-size: 11px;
+            margin-top: 3px;
+        }
+
+        /* BOTTOM-RIGHT: Legend */
+        #legend-panel {
+            bottom: 20px;
+            right: 20px;
+            width: 280px;
+        }
+
+        #legend-panel h3 {
+            color: #00d4ff;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 6px 0;
+            font-size: 12px;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+            border-radius: 3px;
+            border: 1px solid #444;
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: rgba(0, 212, 255, 0.1); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb { background: #00d4ff; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #4fd7e7; }
+
+        /* Floor tabs */
+        .floor-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .floor-tab {
+            padding: 6px 12px;
+            background: rgba(0, 212, 255, 0.1);
+            border: 1px solid #00d4ff;
+            border-radius: 4px;
+            color: #00d4ff;
+            cursor: pointer;
+            font-size: 11px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .floor-tab.active {
+            background: #00d4ff;
+            color: #1a1a2e;
+        }
+
+        .floor-tab:hover {
+            background: rgba(0, 212, 255, 0.3);
+        }
+
+        /* Instructions overlay */
+        .info-text {
+            color: #90caf9;
+            font-size: 11px;
+            line-height: 1.5;
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px solid rgba(0, 212, 255, 0.2);
+        }
+    </style>
 </head>
 <body>
-  <!-- Three.js Canvas -->
-  <div id="canvas-container"></div>
+    <div id="canvas-container"></div>
 
-  <!-- Info Panel -->
-  <div class="info-panel">
-    <h1>🏠 My Luxury Home</h1>
-    <p><strong>Location:</strong> New Delhi</p>
-    <p><strong>Plot Size:</strong> 30' × 60'</p>
-    <p><strong>Built-up:</strong> 1,330 sq. ft.</p>
-    <p><strong>Facing:</strong> North ✓</p>
-    <p><strong>Vastu:</strong> Compliant ✓</p>
-    <div class="spec">
-      <p><strong>Layout:</strong></p>
-      <p>• 2 Master + 1 Guest Bedroom<br/>
-         • 3 Bathrooms<br/>
-         • Living Hall 306 sq. ft.<br/>
-         • Kitchen + Puja Room<br/>
-         • Rear Setback (ventilation)</p>
+    <!-- TOP-LEFT: Project Information -->
+    <div id="info-panel" class="ui-panel">
+        <h2>🏛️ TWO-FLOOR RESIDENCE</h2>
+
+        <div class="stat">
+            <span class="stat-label">Location:</span>
+            <span class="stat-value">New Delhi (NF)</span>
+        </div>
+
+        <div class="stat">
+            <span class="stat-label">Plot Size:</span>
+            <span class="stat-value">30' × 60'</span>
+        </div>
+
+        <div class="stat">
+            <span class="stat-label">Ground Floor:</span>
+            <span class="stat-value">1,800 sq ft</span>
+        </div>
+
+        <div class="stat">
+            <span class="stat-label">First Floor:</span>
+            <span class="stat-value">1,330 sq ft</span>
+        </div>
+
+        <div class="stat">
+            <span class="stat-label">Total Built-up:</span>
+            <span class="stat-value">3,130 sq ft</span>
+        </div>
+
+        <div class="stat">
+            <span class="stat-label">Floor Height:</span>
+            <span class="stat-value">10 ft each</span>
+        </div>
+
+        <div class="stat">
+            <span class="stat-label">Total Rooms:</span>
+            <span class="stat-value">1 GF + 15 FF</span>
+        </div>
+
+        <div class="stat">
+            <span class="stat-label">Vastu:</span>
+            <span class="stat-value">✅ Compliant</span>
+        </div>
+
+        <div class="info-text">
+            <strong>Interactive 3D Model</strong><br>
+            • Drag to rotate<br>
+            • Scroll to zoom<br>
+            • Double-click to reset<br>
+            • Mid-click to pan
+        </div>
     </div>
-  </div>
 
-  <!-- Controls -->
-  <div class="controls">
-    <h3>🎮 Controls</h3>
-    <div class="control-item">Left Mouse: Rotate</div>
-    <div class="control-item">Right Mouse: Pan</div>
-    <div class="control-item">Scroll: Zoom</div>
-    <div class="control-item">Double-click: Reset View</div>
-  </div>
+    <!-- TOP-RIGHT: Camera & Performance -->
+    <div id="camera-panel" class="ui-panel">
+        <h3>📊 Performance & Camera</h3>
 
-  <!-- Room List -->
-  <div class="room-list">
-    <h3>📍 Rooms (15)</h3>
-    <div id="room-list-content"></div>
-  </div>
+        <div class="control-item">
+            <strong>FPS:</strong> <span id="fps">60</span>
+        </div>
 
-  <!-- Stats -->
-  <div class="stats">
-    <div><span class="stats-label">FPS:</span> <span id="fps" class="stats-value">60</span></div>
-    <div><span class="stats-label">Camera:</span> <span id="camera-pos" class="stats-value">0, 0, 0</span></div>
-    <div><span class="stats-label">Geometry:</span> <span id="geometry-info" class="stats-value">0 verts</span></div>
-  </div>
+        <div class="control-item">
+            <strong>Camera Position (ft)</strong><br>
+            <span id="camera-pos">0, 0, 0</span>
+        </div>
 
-  <!-- Three.js Library (CDN) -->
-  <script type="importmap">
-  {
-    "imports": {
-      "three": "https://unpkg.com/three@r128/build/three.module.js",
-      "three/addons/": "https://unpkg.com/three@r128/examples/jsm/"
+        <div class="control-item">
+            <strong>Render Mode:</strong> WebGL 2.0
+        </div>
+
+        <div class="control-item">
+            <strong>Shadows:</strong> PCF 2048×2048
+        </div>
+
+        <div class="floor-tabs">
+            <button class="floor-tab active" data-floor="all">All Floors</button>
+            <button class="floor-tab" data-floor="gf">Ground Floor</button>
+            <button class="floor-tab" data-floor="ff">First Floor</button>
+        </div>
+    </div>
+
+    <!-- BOTTOM-LEFT: Room Directory -->
+    <div id="room-panel" class="ui-panel">
+        <h3>🏠 Room Directory</h3>
+        <div id="room-list-content"></div>
+    </div>
+
+    <!-- BOTTOM-RIGHT: Legend -->
+    <div id="legend-panel" class="ui-panel">
+        <h3>🎨 Room Type Legend</h3>
+
+        <div class="legend-item">
+            <div class="legend-color" style="background: #FFF3B0;"></div>
+            <span>Living Spaces</span>
+        </div>
+
+        <div class="legend-item">
+            <div class="legend-color" style="background: #B3E5FC;"></div>
+            <span>Bedrooms</span>
+        </div>
+
+        <div class="legend-item">
+            <div class="legend-color" style="background: #90CAF9;"></div>
+            <span>Bathrooms</span>
+        </div>
+
+        <div class="legend-item">
+            <div class="legend-color" style="background: #FFCC99;"></div>
+            <span>Kitchen</span>
+        </div>
+
+        <div class="legend-item">
+            <div class="legend-color" style="background: #FFFACD;"></div>
+            <span>Puja Room</span>
+        </div>
+
+        <div class="legend-item">
+            <div class="legend-color" style="background: #DDDDDD;"></div>
+            <span>Service Rooms</span>
+        </div>
+
+        <div class="legend-item">
+            <div class="legend-color" style="background: #EEEEEE;"></div>
+            <span>Main Hall (GF)</span>
+        </div>
+
+        <div class="legend-item">
+            <div class="legend-color" style="background: #E1BEE7;"></div>
+            <span>Staircase</span>
+        </div>
+    </div>
+
+    <script type="importmap">
+    {
+        "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@r128/build/three.module.js",
+            "three/addons/": "https://cdn.jsdelivr.net/npm/three@r128/examples/jsm/"
+        }
     }
-  }
-  </script>
+    </script>
 
-  <script type="module" src="./js/main.js"></script>
+    <script type="module" src="js/main_two_floor.js"></script>
 </body>
 </html>
